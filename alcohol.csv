@@ -1,0 +1,192 @@
+Country,Rank,AlcoholConsumption
+Belarus,1,17.6
+Moldova,2,16.8
+Lithuania,3,15.5
+Russia,4,15.1
+Romania,5,14.4
+Ukraine,6,13.9
+Andorra,7,13.8
+Hungary,8,13.3
+Czech Republic,9,13
+Slovakia,10,13
+Portugal,11,12.9
+Serbia,12,12.6
+Grenada,13,12.5
+Poland,14,12.5
+Latvia,15,12.3
+Finland,16,12.3
+South Korea,17,12.3
+France,18,12.2
+Australia,19,12.2
+Croatia,20,12.2
+Ireland,21,11.9
+Luxembourg,22,11.9
+Germany,23,11.8
+Slovenia,24,11.6
+United Kingdom,25,11.6
+Denmark,26,11.4
+Bulgaria,27,11.4
+Spain,28,11.2
+Belgium,29,11
+South Africa,30,11
+New Zealand,31,10.9
+Gabon,32,10.9
+Namibia,33,10.8
+Switzerland,34,10.7
+Saint Lucia,35,10.4
+Austria,36,10.3
+Estonia,37,10.3
+Greece,38,10.3
+Kazakhstan,39,10.3
+Canada,40,10.2
+Nigeria,41,10.1
+Netherlands,42,9.9
+Uganda,43,9.8
+Rwanda,44,9.8
+Chile,45,9.6
+Argentina,46,9.3
+Burundi,47,9.3
+United States,48,9.2
+Cyprus,49,9.2
+Sweden,50,9.2
+Venezuela,51,8.9
+Paraguay,52,8.8
+Brazil,53,8.7
+Sierra Leone,54,8.7
+Montenegro,55,8.7
+Belize,56,8.5
+Cameroon,57,8.4
+Botswana,58,8.4
+Saint Kitts and Nevis,59,8.2
+Guyana,60,8.1
+Peru,61,8.1
+Panama,62,8
+Niue,63,8
+Palau,64,7.9
+Norway,65,7.7
+Tanzania,66,7.7
+Georgia,67,7.7
+Uruguay,68,7.6
+Angola,69,7.5
+Laos,70,7.3
+Japan,71,7.2
+Mexico,72,7.2
+Ecuador,73,7.2
+Dominica,74,7.1
+Iceland,75,7.1
+Thailand,76,7.1
+Bosnia and Herzegovina,77,7.1
+São Tomé and Príncipe,78,7.1
+Malta,79,7
+Albania,80,7
+Bahamas,81,6.9
+Dominican Republic,82,6.9
+Mongolia,83,6.9
+Cape Verde,84,6.9
+Barbados,85,6.8
+Burkina Faso,86,6.8
+Italy,87,6.7
+Trinidad and Tobago,88,6.7
+China,89,6.7
+Lebanon,90,6.7
+Saint Vincent and the Grenadines,91,6.6
+Equatorial Guinea,92,6.6
+Suriname,93,6.6
+Vietnam,94,6.6
+Lesotho,95,6.5
+Haiti,96,6.4
+Cook Islands,97,6.4
+Colombia,98,6.2
+Ivory Coast,99,6
+Bolivia,100,5.9
+Swaziland,101,5.7
+Zimbabwe,102,5.7
+Seychelles,103,5.6
+Cambodia,104,5.5
+Puerto Rico,105,5.4
+Netherlands Antilles,106,5.4
+Philippines,107,5.4
+Costa Rica,108,5.4
+Armenia,109,5.3
+Cuba,110,5.2
+Nicaragua,111,5
+Jamaica,112,4.9
+Ghana,113,4.8
+Liberia,114,4.7
+Uzbekistan,115,4.6
+Chad,116,4.4
+United Arab Emirates,117,4.3
+Kyrgyzstan,118,4.3
+India,119,4.3
+Turkmenistan,120,4.3
+Kenya,121,4.3
+Ethiopia,122,4.2
+Honduras,123,4
+Guinea-Bissau,124,4
+Zambia,125,4
+Republic of the Congo,126,3.9
+Guatemala,127,3.8
+Central African Republic,128,3.8
+North Korea,129,3.7
+Sri Lanka,130,3.7
+Mauritius,131,3.6
+Samoa,132,3.6
+Democratic Republic of the Congo,133,3.6
+Nauru,134,3.5
+Gambia,135,3.4
+Federated States of Micronesia,136,3.3
+El Salvador,137,3.2
+Fiji,138,3
+Papua New Guinea,139,3
+Kiribati,140,3
+Tajikistan,141,2.8
+Israel,142,2.8
+Sudan,143,2.7
+Malawi,144,2.5
+Macedonia,145,2.4
+Azerbaijan,146,2.3
+Mozambique,147,2.3
+Togo,148,2.3
+Nepal,149,2.2
+Bahrain,150,2.1
+Benin,151,2.1
+Singapore,152,2
+Turkey,153,2
+Madagascar,154,1.8
+Solomon Islands,155,1.7
+Tonga,156,1.6
+Tunisia,157,1.5
+Tuvalu,158,1.5
+Qatar,159,1.5
+Vanuatu,160,1.4
+Djibouti,161,1.3
+Malaysia,162,1.3
+Syria,163,1.2
+Maldives,164,1.2
+Mali,165,1.1
+Eritrea,166,1.1
+Algeria,167,1
+Iran,168,1
+Oman,169,0.9
+Brunei,170,0.9
+Morocco,171,0.9
+Jordan,172,0.7
+Bhutan,173,0.7
+Guinea,174,0.7
+Myanmar,175,0.7
+Afghanistan,176,0.7
+Senegal,177,0.6
+Indonesia,178,0.6
+Timor-Leste,179,0.6
+Iraq,180,0.5
+Somalia,181,0.5
+Egypt,182,0.4
+Niger,183,0.3
+Yemen,184,0.3
+Comoros,185,0.2
+Saudi Arabia,186,0.2
+Bangladesh,187,0.2
+Kuwait,188,0.1
+Libya,189,0.1
+Mauritania,190,0.1
+Pakistan,191,0.1
